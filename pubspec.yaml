@@ -1,6 +1,6 @@
 name: youtube_api_v3
 description: Flutter package for Youtube API v3.Fetch data from Youtube using API
-version: 0.0.3
+version: 0.0.4
 author: Catalin Stochita <stochitacatalin@gmail.com>
 homepage: https://github.com/Stochita/youtube_api_v3
 
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.12.0+2
+  http: ^0.13.3
 
 dev_dependencies:
   flutter_test:
